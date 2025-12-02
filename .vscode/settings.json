@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/home/yaroslav/Acos/lab_disciptor/client",
+    "files.associations": {
+        "stdio.h": "c"
+    }
+}
